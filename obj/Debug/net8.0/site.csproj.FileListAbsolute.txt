@@ -1,0 +1,14 @@
+C:\Users\is\Desktop\site\bin\Debug\net8.0\site.exe
+C:\Users\is\Desktop\site\bin\Debug\net8.0\site.deps.json
+C:\Users\is\Desktop\site\bin\Debug\net8.0\site.runtimeconfig.json
+C:\Users\is\Desktop\site\bin\Debug\net8.0\site.dll
+C:\Users\is\Desktop\site\bin\Debug\net8.0\site.pdb
+C:\Users\is\Desktop\site\obj\Debug\net8.0\site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\is\Desktop\site\obj\Debug\net8.0\site.AssemblyInfoInputs.cache
+C:\Users\is\Desktop\site\obj\Debug\net8.0\site.AssemblyInfo.cs
+C:\Users\is\Desktop\site\obj\Debug\net8.0\site.csproj.CoreCompileInputs.cache
+C:\Users\is\Desktop\site\obj\Debug\net8.0\site.dll
+C:\Users\is\Desktop\site\obj\Debug\net8.0\refint\site.dll
+C:\Users\is\Desktop\site\obj\Debug\net8.0\site.pdb
+C:\Users\is\Desktop\site\obj\Debug\net8.0\site.genruntimeconfig.cache
+C:\Users\is\Desktop\site\obj\Debug\net8.0\ref\site.dll
